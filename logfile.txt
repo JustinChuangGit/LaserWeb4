@@ -1,17 +1,18 @@
-2018-09-18 12:39:59  
-2018-09-18 12:39:59 ***************************************************************
-2018-09-18 12:39:59         ---- LaserWeb Comm Server 4.0.131 ----        
-2018-09-18 12:39:59 ***************************************************************
-2018-09-18 12:39:59   Use  http://192.168.14.100:8000 to connect this server.
-2018-09-18 12:39:59  
-2018-09-18 12:39:59 * Updates: 
-2018-09-18 12:39:59   Remember to check the commit log on
-2018-09-18 12:39:59   https://github.com/LaserWeb/lw.comm-server/commits/master
-2018-09-18 12:39:59   regularly, to know about updates and fixes, and then when ready
-2018-09-18 12:39:59   update accordingly by running git pull
-2018-09-18 12:39:59  
-2018-09-18 12:39:59 * Support: 
-2018-09-18 12:39:59   If you need help / support, come over to 
-2018-09-18 12:39:59   https://plus.google.com/communities/115879488566665599508
-2018-09-18 12:39:59 ***************************************************************
-2018-09-18 12:39:59  
+2024-04-21 17:52:46  
+2024-04-21 17:52:46 ***************************************************************
+2024-04-21 17:52:46         ---- LaserWeb Comm Server 4.1.000 ----        
+2024-04-21 17:52:46 ***************************************************************
+2024-04-21 17:52:46   Use  http://10.0.0.178:8000 to connect to this server.
+2024-04-21 17:52:46  
+2024-04-21 17:52:46 * Updates: 
+2024-04-21 17:52:46   Remember to check the commit log on
+2024-04-21 17:52:46   https://github.com/LaserWeb/lw.comm-server/commits/master
+2024-04-21 17:52:46   regularly, to know about updates and fixes, and then when ready
+2024-04-21 17:52:46   update accordingly by running git pull
+2024-04-21 17:52:46  
+2024-04-21 17:52:46 * Support: 
+2024-04-21 17:52:46   If you need help / support, come over to 
+2024-04-21 17:52:46   https://forum.makerforums.info/c/laserweb-cncweb/78
+2024-04-21 17:52:46 ***************************************************************
+2024-04-21 17:52:46  
+2024-04-21 17:52:46 Server binding to all local IP addresses on port: 8000
